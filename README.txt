@@ -1,3 +1,4 @@
+[testing switchub]
 = mini_twitter
 
 * FIX (url)
